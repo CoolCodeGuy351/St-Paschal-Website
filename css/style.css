@@ -1,0 +1,18 @@
+/* font-family: 'Lato', sans-serif; */
+
+#welcome{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    margin-top: 5%;
+}
+
+#welcome-two{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+}
+
+#c-img{
+    margin: 5% auto;
+    border: solid 10px;
+}
