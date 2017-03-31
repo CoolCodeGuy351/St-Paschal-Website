@@ -9,5 +9,6 @@ Website for all things Saint Paschal Baylon Thousand Oaks related
         - Build last section which contains links / extra buttons. 
         - Build additional website pages / content.
         - Finish styling website including theme.
+        - Need to build Nav Bar.
         
 3/31 :       
