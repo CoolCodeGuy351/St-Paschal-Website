@@ -1,4 +1,7 @@
 /* font-family: 'Lato', sans-serif; */
+p{
+    font-family: 'Lato', sans-serif;  
+}
 
 #welcome{
     text-align: center;
@@ -15,4 +18,8 @@
 #c-img{
     margin: 5% auto;
     border: solid 10px;
+}
+
+#section-one{
+    background-color: bisque;
 }
