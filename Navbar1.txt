@@ -1,0 +1,31 @@
+   <nav id="nav-bar-one">    
+          <ul class="nav nav-tabs">
+              <li class="nav-item">
+                <a class="nav-link active" href="#">Home</a>
+              </li>
+              <li class="nav-item" style="background-color: #e3f2fd;">
+                <a class="nav-link" href="#">Register</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Weekly Bulletin</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Becoming a Catholic</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Adoration Chapel</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Parish Ministries</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Faith Formation</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Recorded Homilies</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Contact Us</a>
+              </li>
+          </ul>
+      </nav> 

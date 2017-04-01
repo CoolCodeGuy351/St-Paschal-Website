@@ -1,7 +1,39 @@
 /* font-family: 'Lato', sans-serif; */
+
+
 p{
     font-family: 'Lato', sans-serif;  
 }
+
+/**** Mass times  ****/
+
+#mass-time-one{
+    border-style:solid;
+}
+
+#mass-time-two{
+    border-style:solid;
+    border-top: none;
+}
+
+#mass-time-three{
+    border-style:solid;
+    border-top: none;
+}
+
+#mass-time-four{
+    border-style:solid;
+    border-top: none;
+}
+
+/* Vertically Aligning Text in Boxes */
+
+#vert-center-one{
+    
+}
+
+/**** Mass times end ****/
+
 
 #welcome{
     text-align: center;
