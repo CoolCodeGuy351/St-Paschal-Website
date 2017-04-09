@@ -7,6 +7,10 @@ p{
     font-family: 'Lato', sans-serif;  
 }
 
+#nav-color{
+    background-color: white;
+}
+
 /**** Mass times  ****/
 
 #mass-time-one{
@@ -80,4 +84,14 @@ p{
 #c-img{
     margin: 5% auto;
     border: solid 10px;
+}
+
+/*** OTHER PAGES ***/
+
+/*** Recoreded Hom ***/
+
+
+#photo-other{
+    background-image: url("../img/sky-edit-one.png");
+    height: 600px;
 }
