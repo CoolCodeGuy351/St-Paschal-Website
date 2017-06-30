@@ -1,14 +1,3 @@
 # St-Paschal-Website
-Website for all things Saint Paschal Baylon Thousand Oaks related
-
-3/30 : Website structure and content mostly complete on index.html. Still needs styling.
-
-  TODO: - Finish Structuring sections and text within section. 
-        - Need to build borders / boxes to seperate content in Mass times and Upcoming events sections.
-        - Narrow down which buttons / pages to include  / exclude from website. 
-        - Build last section which contains links / extra buttons. 
-        - Build additional website pages / content.
-        - Finish styling website including theme.
-        - Need to build Nav Bar.
-        
-3/31 :       
+This is the future website of Saint Paschal Baylon church which is currently under construction.
+     
